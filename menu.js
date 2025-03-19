@@ -28,3 +28,4 @@ askForNumber("Masukkan angka pertama: ", (angka1) => {
 });
 
 //////////////////CEEEEEEEEEEEEEEEEEEKKKKKKKKKKKKKKKKK
+//////////////////////ASEM BENER
