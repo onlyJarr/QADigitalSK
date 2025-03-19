@@ -33,5 +33,5 @@ askForNumber("Masukkan angka pertama: ", (angka1) => {
 
 
 
-//COOOOOOOOOOOOOOOOOBAAAAA
+//ET SERIUSAN DAH INI KOMENNYA KAGA ADA YNG BENER
 //TEST COMMIT
