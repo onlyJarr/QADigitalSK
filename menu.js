@@ -27,11 +27,4 @@ askForNumber("Masukkan angka pertama: ", (angka1) => {
     });
 });
 
-
-
-
-
-
-
-// TESTT LAGI NIHHHHHHHHHHH
-//TEST COMMIT
+//////////////////CEEEEEEEEEEEEEEEEEEKKKKKKKKKKKKKKKKK
