@@ -26,3 +26,12 @@ askForNumber("Masukkan angka pertama: ", (angka1) => {
         });
     });
 });
+
+
+
+
+
+
+
+
+//TEST COMMIT
