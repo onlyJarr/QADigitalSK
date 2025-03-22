@@ -25,4 +25,4 @@ jobs:
         run: npm install
 
       - name: Run Newman tests
-        run: newman run collections/sample-collection.json -e tests/sample-test.json
+        run: newman run collections/sample-collection.json
