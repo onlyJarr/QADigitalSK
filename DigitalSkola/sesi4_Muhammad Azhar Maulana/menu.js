@@ -28,7 +28,7 @@ askForNumber("Masukkan angka pertama: ", (angka1) => {
 });
 
 
-//TEstttt sekarang
+//TEstttt sekarang  asdasda
 
 
 
